@@ -9,7 +9,7 @@
 namespace Corporatte\Application\Providers;
 
 
-use jjsquady\Providers\ApplicationServiceProvider as ApplicationServiceProviderBase;
+use Corporatte\Core\Providers\ApplicationServiceProvider as ApplicationServiceProviderBase;
 
 /**
  * Class ApplicationServiceProvider

@@ -2,7 +2,7 @@
 
 namespace Corporatte\Application;
 
-use jjsquady\Providers\ServiceProvider as BaseServiceProvider;
+use Corporatte\Core\Providers\ServiceProvider as BaseServiceProvider;
 
 /**
  * Class ServiceProvider
