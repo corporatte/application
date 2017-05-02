@@ -16,7 +16,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "jjsquady/base-ioc-application": "0.1.*"
+        "jjsquady/base-ioc-application": "^0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "5.7.*"
