@@ -6,7 +6,7 @@
  * Time: 23:06
  */
 use Corporatte\Application\Main;
-use jjsquady\Application;
+use Corporatte\Core\Application;
 
 require 'vendor/autoload.php';
 /*
