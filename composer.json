@@ -1,5 +1,5 @@
 {
-    "name": "jjsquady/corporatte-application",
+    "name": "corporatte/application",
     "description": "A IoC Application -WIP-",
     "type": "project",
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "jjsquady/base-ioc-application": "^0.1"
+        "corporatte/core": "^0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "5.7.*"
