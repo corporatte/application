@@ -1,6 +1,6 @@
 <?php
 
-namespace Corporatte\Application;
+namespace Corporatte\Application\Providers;
 
 use Corporatte\Core\Providers\ServiceProvider as BaseServiceProvider;
 
